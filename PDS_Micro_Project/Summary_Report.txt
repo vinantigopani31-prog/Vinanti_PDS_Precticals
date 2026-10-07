@@ -1,0 +1,37 @@
+MOVIE / NETFLIX DATASET ANALYZER - SUMMARY REPORT
+==================================================
+
+Total titles analysed : 400
+
+Content type distribution:
+type
+Movie      293
+TV Show    107
+
+Top 10 countries:
+country
+Canada            43
+Australia         42
+Japan             42
+France            41
+United Kingdom    38
+South Korea       36
+Spain             35
+Brazil            33
+India             32
+United States     30
+
+Top 10 genres:
+listed_in
+Reality-TV     82
+Crime          79
+Romance        76
+Horror         75
+Comedy         66
+Thriller       65
+Kids           65
+Sci-Fi         62
+Drama          60
+Documentary    58
+
+Average movie duration: 123.2 minutes

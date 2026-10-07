@@ -1,0 +1,401 @@
+show_id,type,title,director,country,date_added,release_year,rating,duration,listed_in,description
+s1,Movie,Silent Chronicles,M. Rossi,United Kingdom,"November 24, 2021",2021,TV-Y7,81 min,"Horror, Drama, Crime",A gripping story about revenge.
+s2,Movie,Final Horizon,,Spain,"July 19, 2012",2011,TV-MA,173 min,Action,A quirky story about survival.
+s3,Movie,Golden Signal,J. Miller,South Korea,"May 20, 2003",2001,TV-MA,173 min,Reality-TV,A quirky story about ambition.
+s4,Movie,Endless Shadow,,Australia,"March 23, 2013",2009,PG,75 min,"Documentary, Thriller, Comedy",A heartfelt story about family.
+s5,Movie,Lost Garden,K. Tanaka,Japan,"November 9, 2010",2009,PG,147 min,"Action, Kids, Documentary",A heartfelt story about love.
+s6,Movie,Crimson Chronicles,,Japan,"March 27, 2024",2024,G,173 min,"Horror, Thriller",A gripping story about revenge.
+s7,TV Show,Final Chronicles,,South Korea,"March 9, 2021",2018,PG-13,4 Seasons,"Thriller, Anime, Horror",A intense story about love.
+s8,Movie,Last Storm,A. Sharma,India,"November 14, 2003",2002,PG,119 min,"Anime, Sci-Fi",A intense story about survival.
+s9,TV Show,Silent Garden,,Spain,"November 11, 2024",2022,PG,5 Seasons,Sci-Fi,A gripping story about friendship.
+s10,TV Show,Hidden Storm,,India,"November 17, 2020",2018,R,3 Seasons,Kids,A intense story about family.
+s11,Movie,Lost Horizon : Origins,L. Dubois,Canada,"September 3, 2000",1999,PG,163 min,"Comedy, Kids",A heartfelt story about revenge.
+s12,Movie,Secret Kingdom,N. Khan,South Korea,"November 23, 2008",2004,R,161 min,"Horror, Crime",A fast-paced story about love.
+s13,TV Show,Lost Shadow,A. Sharma,Australia,"September 8, 2016",2015,G,2 Season,Comedy,A gripping story about survival.
+s14,Movie,Golden City,M. Rossi,Spain,"September 16, 2006",2002,R,170 min,"Horror, Documentary",A gripping story about family.
+s15,Movie,Dark Dream,A. Sharma,Brazil,"January 13, 2018",2018,TV-14,172 min,Documentary,A heartfelt story about revenge.
+s16,Movie,Last Dream,P. Silva,Canada,"September 4, 2003",2000,G,153 min,"Drama, Comedy, Documentary",A heartfelt story about love.
+s17,Movie,Golden Dream,K. Tanaka,South Korea,"May 26, 2001",1998,TV-Y,106 min,"Reality-TV, Kids",A quirky story about revenge.
+s18,Movie,Golden Horizon,T. Johnson,United States,"January 2, 2023",2021,TV-Y,134 min,"Action, Drama, Kids",A gripping story about revenge.
+s19,Movie,Broken Garden,S. Novak,India,"September 20, 2017",2016,G,149 min,Horror,A intense story about ambition.
+s20,Movie,Hidden Journey,R. Kim,Canada,"March 22, 2009",2006,TV-MA,128 min,"Comedy, Drama",A quirky story about ambition.
+s21,TV Show,Broken Shadow,,United Kingdom,"March 12, 2009",2009,TV-MA,3 Seasons,"Reality-TV, Thriller, Anime",A intense story about family.
+s22,Movie,Secret City,J. Miller,United Kingdom,"January 24, 2006",2006,TV-Y7,89 min,"Thriller, Anime",A heartfelt story about friendship.
+s23,Movie,Crimson Garden,T. Johnson,Germany,"January 21, 2006",2006,TV-PG,105 min,Drama,A fast-paced story about revenge.
+s24,Movie,Hidden Kingdom,T. Johnson,South Korea,"January 3, 2015",2015,PG-13,139 min,Romance,A intense story about ambition.
+s25,Movie,Last Horizon,A. Sharma,Japan,"November 4, 2005",2004,TV-14,169 min,"Horror, Anime, Action",A heartfelt story about revenge.
+s26,TV Show,Forgotten Kingdom,R. Kim,South Korea,"May 6, 2024",2023,PG,7 Season,"Documentary, Reality-TV",A quirky story about survival.
+s27,Movie,Forgotten Journey,,Canada,"May 28, 2012",2010,PG,168 min,"Romance, Crime",A intense story about love.
+s28,Movie,Secret Legacy,J. Miller,France,"May 2, 2007",2003,PG,146 min,"Romance, Reality-TV",A quirky story about ambition.
+s29,TV Show,Broken Dream,A. Sharma,South Korea,"September 22, 2002",1998,R,6 Seasons,Crime,A fast-paced story about ambition.
+s30,Movie,Broken Chronicles,T. Johnson,France,"May 13, 2022",2019,TV-MA,140 min,Documentary,A quirky story about friendship.
+s31,TV Show,Crimson Chronicles,,France,"January 10, 2014",2010,TV-MA,4 Seasons,"Anime, Crime, Romance",A quirky story about love.
+s32,Movie,Golden Storm,K. Tanaka,Brazil,"September 22, 2002",2000,TV-14,81 min,Crime,A fast-paced story about revenge.
+s33,TV Show,Last Horizon : Rebirth,,India,"November 19, 2015",2012,R,7 Seasons,"Documentary, Action",A gripping story about family.
+s34,TV Show,Golden Kingdom,,Germany,"March 28, 2003",1999,PG,8 Seasons,"Crime, Kids",A intense story about ambition.
+s35,Movie,Forgotten River,T. Johnson,South Korea,"July 6, 2024",2024,TV-Y,127 min,"Documentary, Crime",A fast-paced story about ambition.
+s36,Movie,Golden City,L. Dubois,Canada,"May 18, 2008",2006,PG,87 min,Documentary,A quirky story about friendship.
+s37,Movie,Golden Shadow,R. Kim,Spain,"January 7, 2015",2012,TV-PG,119 min,"Reality-TV, Drama, Anime",A quirky story about love.
+s38,Movie,Dark City,S. Novak,Spain,"September 8, 2024",2021,TV-Y,98 min,"Horror, Sci-Fi",A gripping story about love.
+s39,Movie,Crimson Signal,K. Tanaka,Germany,"September 1, 2006",2002,TV-PG,145 min,"Crime, Drama, Comedy",A quirky story about revenge.
+s40,TV Show,Last Horizon,,Germany,"July 9, 2010",2008,TV-PG,5 Seasons,"Drama, Kids",A gripping story about survival.
+s41,Movie,Broken Signal,A. Sharma,United States,"January 20, 2006",2005,PG-13,100 min,Sci-Fi,A gripping story about ambition.
+s42,TV Show,Lost Chronicles,,Australia,"March 10, 2017",2017,PG,1 Seasons,"Crime, Horror, Reality-TV",A heartfelt story about family.
+s43,Movie,Crimson Journey : Origins,,Australia,"September 26, 2023",2023,G,114 min,"Horror, Crime, Romance",A gripping story about ambition.
+s44,Movie,Silent Dream,J. Miller,South Korea,"November 5, 2012",2009,TV-PG,92 min,"Kids, Crime, Thriller",A intense story about ambition.
+s45,TV Show,Lost Dream,,Japan,"May 15, 2005",2005,R,8 Seasons,"Drama, Sci-Fi",A fast-paced story about revenge.
+s46,Movie,Dark Signal,L. Dubois,Australia,"September 1, 2022",2020,TV-Y7,94 min,Documentary,A quirky story about love.
+s47,Movie,Golden Chronicles,P. Silva,Germany,"January 10, 2023",2023,R,121 min,"Documentary, Thriller, Anime",A fast-paced story about love.
+s48,Movie,Dark Dream,T. Johnson,Japan,"May 10, 2012",2009,TV-MA,99 min,Reality-TV,A heartfelt story about survival.
+s49,Movie,Secret Signal,M. Rossi,Canada,"May 24, 2024",2021,TV-Y7,146 min,"Comedy, Documentary",A fast-paced story about revenge.
+s50,Movie,Hidden Horizon,K. Tanaka,France,"September 10, 1999",1999,PG-13,151 min,"Comedy, Drama",A intense story about survival.
+s51,Movie,Lost Legacy,A. Sharma,France,"January 13, 2013",2013,TV-Y,79 min,"Crime, Reality-TV, Drama",A heartfelt story about revenge.
+s52,TV Show,Hidden Shadow,S. Novak,Australia,"March 25, 2021",2017,TV-Y7,7 Seasons,"Thriller, Anime",A quirky story about survival.
+s53,Movie,Silent Empire,J. Miller,Canada,"May 22, 2019",2018,PG,90 min,Action,A intense story about family.
+s54,Movie,Endless River,P. Silva,France,"May 23, 2000",1999,TV-MA,159 min,"Comedy, Crime",A heartfelt story about survival.
+s55,TV Show,Crimson Empire,,South Korea,"March 21, 2005",2001,PG-13,5 Seasons,Drama,A heartfelt story about survival.
+s56,Movie,Final City,P. Silva,France,"May 17, 2023",2020,TV-Y7,133 min,"Comedy, Anime",A gripping story about love.
+s57,TV Show,Final City III,,Australia,"November 27, 2016",2016,TV-MA,1 Seasons,"Kids, Crime",A quirky story about survival.
+s58,Movie,Final Dream,P. Silva,India,"July 11, 2015",2013,TV-14,155 min,Action,A fast-paced story about love.
+s59,TV Show,Hidden Garden,,Spain,"January 11, 2002",1999,TV-MA,6 Seasons,"Kids, Drama",A intense story about love.
+s60,Movie,Golden Storm,P. Silva,Brazil,"March 9, 2012",2012,TV-Y7,86 min,"Sci-Fi, Reality-TV",A gripping story about family.
+s61,TV Show,Final Signal,T. Johnson,United States,"January 8, 2018",2015,PG,8 Seasons,"Action, Sci-Fi, Thriller",A intense story about friendship.
+s62,Movie,Lost River,T. Johnson,United Kingdom,"September 17, 2011",2010,PG-13,78 min,"Horror, Romance",A intense story about survival.
+s63,TV Show,Hidden Chronicles,,Brazil,"July 18, 2014",2013,TV-Y,6 Seasons,"Kids, Horror, Sci-Fi",A fast-paced story about revenge.
+s64,TV Show,Golden Empire,,South Korea,"November 16, 2001",1999,TV-PG,7 Seasons,"Drama, Action",A intense story about ambition.
+s65,Movie,Broken River : Rebirth,A. Sharma,United Kingdom,"January 16, 2012",2011,TV-MA,113 min,"Reality-TV, Horror, Comedy",A fast-paced story about friendship.
+s66,TV Show,Endless Legacy,,Germany,"September 3, 2015",2015,R,5 Seasons,"Comedy, Horror, Reality-TV",A gripping story about love.
+s67,Movie,Hidden Horizon II,L. Dubois,Japan,"March 8, 2012",2009,TV-Y7,122 min,"Crime, Action, Reality-TV",A heartfelt story about family.
+s68,Movie,Endless Empire,P. Silva,Australia,"July 21, 2003",2002,TV-MA,128 min,"Crime, Drama",A quirky story about survival.
+s69,Movie,Last Shadow,R. Kim,Australia,"November 9, 2010",2007,TV-Y,108 min,Horror,A quirky story about family.
+s70,Movie,Final Legacy,L. Dubois,United States,"May 1, 2024",2024,G,147 min,"Sci-Fi, Thriller, Documentary",A intense story about survival.
+s71,Movie,Golden Empire,,Brazil,"November 4, 2024",2024,G,109 min,"Drama, Anime",A fast-paced story about friendship.
+s72,Movie,Hidden Legacy,K. Tanaka,Canada,"May 17, 2006",2002,TV-Y7,104 min,Thriller,A quirky story about survival.
+s73,TV Show,Dark Signal II,M. Rossi,Brazil,"September 12, 2024",2021,PG,7 Season,"Kids, Comedy",A quirky story about survival.
+s74,Movie,Crimson City,,Japan,"July 1, 2002",2001,TV-Y7,111 min,"Documentary, Crime, Comedy",A quirky story about friendship.
+s75,Movie,Endless Shadow II,L. Dubois,Germany,"March 18, 2001",2001,PG-13,119 min,"Romance, Crime",A intense story about love.
+s76,Movie,Distant Kingdom,,India,"September 14, 2024",2024,TV-MA,74 min,"Romance, Documentary, Sci-Fi",A quirky story about revenge.
+s77,TV Show,Broken Garden,,Brazil,"July 9, 2009",2009,R,2 Seasons,Crime,A heartfelt story about friendship.
+s78,Movie,Silent Horizon,M. Rossi,United Kingdom,"March 3, 2024",2023,TV-Y7,96 min,"Documentary, Reality-TV, Romance",A heartfelt story about ambition.
+s79,Movie,Last Kingdom,K. Tanaka,India,"March 1, 2019",2019,TV-14,171 min,Anime,A fast-paced story about family.
+s80,Movie,Silent Kingdom,T. Johnson,India,"July 15, 2021",2021,TV-14,135 min,"Comedy, Sci-Fi, Kids",A heartfelt story about ambition.
+s81,Movie,Forgotten Garden,P. Silva,Brazil,"July 28, 1998",1998,TV-PG,124 min,"Comedy, Sci-Fi, Crime",A gripping story about family.
+s82,Movie,Last Shadow : Origins,S. Novak,Australia,"July 17, 2016",2014,TV-PG,82 min,"Comedy, Crime, Kids",A heartfelt story about love.
+s83,Movie,Golden Dream,P. Silva,South Korea,"May 14, 2011",2011,TV-14,155 min,"Romance, Action",A quirky story about family.
+s84,Movie,Broken Shadow,R. Kim,United Kingdom,"September 18, 2015",2015,TV-Y7,112 min,"Comedy, Horror, Romance",A quirky story about friendship.
+s85,Movie,Hidden Empire,J. Miller,Australia,"March 22, 2015",2014,TV-Y,98 min,Romance,A intense story about survival.
+s86,Movie,Hidden Empire,S. Novak,Spain,"September 22, 2024",2022,TV-Y7,73 min,"Crime, Thriller, Drama",A heartfelt story about survival.
+s87,TV Show,Hidden Legacy,K. Tanaka,Australia,"January 5, 2022",2019,G,2 Seasons,Horror,A quirky story about love.
+s88,Movie,Dark City,N. Khan,Australia,"March 6, 2000",2000,G,156 min,Thriller,A quirky story about friendship.
+s89,Movie,Final River,M. Rossi,Spain,"July 4, 2003",2001,TV-MA,156 min,"Anime, Sci-Fi, Kids",A fast-paced story about family.
+s90,Movie,Final Horizon : Origins,M. Rossi,United Kingdom,"May 11, 2024",2022,PG,70 min,"Reality-TV, Horror",A heartfelt story about revenge.
+s91,Movie,Distant Journey,,Japan,"November 2, 2003",2000,TV-PG,72 min,"Comedy, Romance",A intense story about love.
+s92,Movie,Distant Garden,J. Miller,South Korea,"March 26, 2000",1998,TV-Y,158 min,"Comedy, Horror",A gripping story about revenge.
+s93,Movie,Endless Storm : Origins,R. Kim,Canada,"January 17, 2009",2008,PG,137 min,"Documentary, Romance, Crime",A heartfelt story about revenge.
+s94,Movie,Hidden Journey,K. Tanaka,Brazil,"November 16, 2001",2000,TV-Y,166 min,"Anime, Sci-Fi, Reality-TV",A intense story about survival.
+s95,TV Show,Crimson Legacy,P. Silva,Brazil,"September 2, 2009",2007,TV-14,9 Seasons,"Sci-Fi, Reality-TV",A gripping story about family.
+s96,Movie,Hidden Shadow,J. Miller,Australia,"July 15, 2021",2017,TV-Y7,171 min,"Drama, Sci-Fi, Anime",A heartfelt story about survival.
+s97,Movie,Secret Kingdom,P. Silva,India,"November 3, 2024",2023,TV-Y7,152 min,Drama,A heartfelt story about friendship.
+s98,Movie,Lost Storm,K. Tanaka,Japan,"July 14, 2011",2009,TV-14,156 min,"Drama, Crime, Romance",A gripping story about survival.
+s99,Movie,Crimson Dream,,Australia,"January 19, 2004",2002,PG-13,114 min,"Crime, Reality-TV",A quirky story about revenge.
+s100,Movie,Broken City,,Japan,"November 23, 2024",2024,TV-Y7,81 min,"Crime, Horror, Kids",A fast-paced story about family.
+s101,Movie,Last Journey,P. Silva,Canada,"March 3, 2006",2005,TV-MA,170 min,Kids,A intense story about friendship.
+s102,TV Show,Silent Garden,,United Kingdom,"March 6, 2020",2017,PG-13,3 Seasons,Horror,A fast-paced story about friendship.
+s103,TV Show,Lost Empire,,Germany,"March 10, 2009",2005,TV-Y,4 Seasons,"Anime, Sci-Fi, Crime",A fast-paced story about love.
+s104,Movie,Endless Kingdom,N. Khan,United Kingdom,"November 16, 2006",2006,TV-14,140 min,Reality-TV,A intense story about family.
+s105,Movie,Forgotten Kingdom,T. Johnson,United Kingdom,"January 8, 2024",2024,TV-Y,114 min,Horror,A gripping story about love.
+s106,Movie,Golden Dream,R. Kim,Canada,"January 27, 2000",1998,TV-14,171 min,Action,A gripping story about survival.
+s107,TV Show,Lost Chronicles,,Germany,"January 3, 2016",2012,G,5 Seasons,Kids,A intense story about ambition.
+s108,Movie,Forgotten City,J. Miller,United States,"November 26, 2008",2005,TV-Y,78 min,Sci-Fi,A intense story about ambition.
+s109,Movie,Secret Empire,K. Tanaka,France,"September 12, 2011",2011,R,143 min,"Action, Crime",A gripping story about ambition.
+s110,TV Show,Broken Storm,,Spain,"July 28, 2015",2015,TV-Y,1 Seasons,"Thriller, Drama",A fast-paced story about family.
+s111,Movie,Distant Garden,N. Khan,Japan,"May 18, 2002",2002,TV-14,174 min,"Action, Crime, Sci-Fi",A quirky story about friendship.
+s112,Movie,Last Shadow,P. Silva,United States,"January 26, 2008",2007,R,75 min,"Thriller, Kids",A quirky story about ambition.
+s113,Movie,Silent Signal,L. Dubois,Japan,"November 11, 2022",2022,TV-MA,85 min,"Horror, Reality-TV",A quirky story about love.
+s114,Movie,Last River,R. Kim,Spain,"November 14, 2006",2006,PG,125 min,"Action, Kids, Thriller",A fast-paced story about family.
+s115,Movie,Crimson City,N. Khan,South Korea,"May 15, 2006",2003,G,163 min,"Anime, Horror",A fast-paced story about friendship.
+s116,TV Show,Silent Shadow,,Spain,"January 5, 2024",2023,TV-Y,1 Seasons,Documentary,A fast-paced story about survival.
+s117,Movie,Final Horizon,,Germany,"July 25, 2011",2009,PG,143 min,Kids,A fast-paced story about love.
+s118,Movie,Hidden Journey,A. Sharma,United Kingdom,"July 18, 2017",2013,PG,103 min,"Reality-TV, Sci-Fi",A heartfelt story about ambition.
+s119,Movie,Lost Journey II,P. Silva,United Kingdom,"January 26, 2023",2020,TV-14,155 min,"Reality-TV, Comedy",A intense story about ambition.
+s120,Movie,Hidden Kingdom,,United Kingdom,"September 8, 2024",2023,PG,95 min,Documentary,A quirky story about family.
+s121,Movie,Final Legacy,T. Johnson,United Kingdom,"January 10, 2017",2017,TV-PG,161 min,"Sci-Fi, Kids, Horror",A quirky story about ambition.
+s122,Movie,Dark Garden : Rebirth,,Spain,"September 21, 2010",2009,PG-13,168 min,Horror,A intense story about family.
+s123,TV Show,Secret Kingdom,M. Rossi,Japan,"January 9, 2016",2014,R,9 Seasons,Crime,A fast-paced story about ambition.
+s124,Movie,Secret Garden,N. Khan,United Kingdom,"November 20, 2007",2003,TV-14,142 min,Drama,A gripping story about family.
+s125,TV Show,Forgotten Empire,N. Khan,South Korea,"July 21, 2017",2017,TV-Y7,5 Seasons,"Documentary, Crime",A quirky story about survival.
+s126,Movie,Distant Horizon,S. Novak,Germany,"May 20, 2013",2012,PG-13,110 min,"Romance, Reality-TV, Horror",A heartfelt story about survival.
+s127,Movie,Broken Legacy,J. Miller,France,"March 4, 2013",2012,G,107 min,"Anime, Horror",A heartfelt story about revenge.
+s128,TV Show,Final Chronicles,,Germany,"July 10, 2017",2014,TV-Y,1 Seasons,"Kids, Sci-Fi",A heartfelt story about revenge.
+s129,Movie,Silent Horizon,N. Khan,Brazil,"May 18, 2022",2019,G,83 min,"Action, Thriller",A fast-paced story about love.
+s130,Movie,Endless Horizon,M. Rossi,Japan,"January 13, 2017",2015,TV-Y7,127 min,"Thriller, Anime, Crime",A gripping story about revenge.
+s131,TV Show,Endless Legacy,,Japan,"March 20, 2023",2022,TV-Y7,7 Seasons,Drama,A gripping story about revenge.
+s132,TV Show,Forgotten River,T. Johnson,United Kingdom,"May 6, 2012",2008,TV-PG,5 Seasons,"Kids, Reality-TV, Sci-Fi",A intense story about survival.
+s133,Movie,Silent Legacy,J. Miller,South Korea,"November 28, 2018",2016,G,146 min,"Thriller, Crime",A intense story about ambition.
+s134,Movie,Silent Empire,T. Johnson,Brazil,"July 5, 2024",2021,R,74 min,"Reality-TV, Comedy, Documentary",A gripping story about love.
+s135,Movie,Last Dream,S. Novak,Spain,"July 28, 2024",2022,G,160 min,Kids,A heartfelt story about ambition.
+s136,Movie,Crimson River,R. Kim,United Kingdom,"May 18, 2016",2012,TV-14,156 min,"Crime, Reality-TV, Thriller",A intense story about love.
+s137,Movie,Golden City,M. Rossi,France,"November 7, 2024",2022,TV-Y,110 min,"Romance, Kids",A fast-paced story about survival.
+s138,Movie,Crimson Storm,S. Novak,Japan,"May 2, 2023",2022,TV-MA,161 min,Romance,A quirky story about friendship.
+s139,Movie,Lost Journey,T. Johnson,France,"March 4, 2017",2015,R,101 min,Crime,A intense story about revenge.
+s140,Movie,Silent Shadow,P. Silva,India,"January 18, 2020",2019,PG-13,122 min,"Sci-Fi, Reality-TV, Documentary",A fast-paced story about survival.
+s141,Movie,Silent Signal III,T. Johnson,United States,"March 2, 2006",2003,TV-PG,170 min,"Action, Thriller",A gripping story about family.
+s142,Movie,Final Shadow,R. Kim,France,"September 16, 2016",2012,PG-13,134 min,"Thriller, Documentary",A gripping story about survival.
+s143,Movie,Lost Garden,K. Tanaka,United States,"May 19, 2023",2021,R,92 min,"Crime, Horror, Reality-TV",A intense story about survival.
+s144,Movie,Crimson Shadow,K. Tanaka,Germany,"January 9, 2009",2008,TV-PG,100 min,"Thriller, Romance",A fast-paced story about ambition.
+s145,TV Show,Silent City,,United States,"July 10, 2019",2019,PG-13,7 Seasons,"Thriller, Comedy, Reality-TV",A fast-paced story about ambition.
+s146,Movie,Last River,N. Khan,Japan,"July 25, 2015",2011,TV-Y7,172 min,"Documentary, Reality-TV, Anime",A gripping story about ambition.
+s147,Movie,Distant Legacy II,A. Sharma,Spain,"September 18, 2015",2014,PG-13,91 min,"Kids, Sci-Fi",A gripping story about friendship.
+s148,Movie,Final River : Rebirth,A. Sharma,Germany,"July 15, 2006",2002,G,141 min,"Crime, Thriller",A gripping story about love.
+s149,Movie,Silent Chronicles,J. Miller,United States,"November 3, 2013",2011,TV-Y7,77 min,Sci-Fi,A gripping story about survival.
+s150,Movie,Forgotten Kingdom,,South Korea,"July 28, 2012",2009,TV-PG,118 min,Crime,A intense story about revenge.
+s151,Movie,Dark Shadow,T. Johnson,South Korea,"November 8, 2015",2014,G,166 min,Thriller,A quirky story about friendship.
+s152,TV Show,Endless Storm,P. Silva,Japan,"March 24, 2004",2002,PG,1 Seasons,"Drama, Documentary, Crime",A gripping story about family.
+s153,Movie,Lost Empire,A. Sharma,Canada,"July 15, 2021",2021,R,139 min,Drama,A heartfelt story about ambition.
+s154,TV Show,Golden Chronicles,,Brazil,"March 10, 2024",2024,PG-13,9 Seasons,"Thriller, Reality-TV",A gripping story about ambition.
+s155,TV Show,Distant Kingdom,,Germany,"November 22, 2001",1999,TV-PG,9 Seasons,"Horror, Reality-TV, Action",A fast-paced story about love.
+s156,Movie,Secret River,M. Rossi,France,"July 2, 2021",2020,TV-Y7,122 min,"Kids, Reality-TV",A heartfelt story about love.
+s157,Movie,Golden Legacy,P. Silva,Japan,"November 27, 2004",2000,R,76 min,"Horror, Crime",A intense story about ambition.
+s158,Movie,Broken Journey,N. Khan,Brazil,"July 7, 2016",2015,TV-14,108 min,Documentary,A heartfelt story about friendship.
+s159,Movie,Forgotten River,N. Khan,Canada,"September 11, 2011",2010,TV-MA,118 min,"Kids, Crime",A fast-paced story about survival.
+s160,Movie,Secret River,P. Silva,Japan,"May 14, 2006",2004,G,142 min,Reality-TV,A heartfelt story about family.
+s161,Movie,Final Empire,L. Dubois,United Kingdom,"March 13, 2006",2004,R,133 min,"Crime, Reality-TV, Romance",A fast-paced story about love.
+s162,TV Show,Crimson Chronicles,R. Kim,United Kingdom,"July 6, 2006",2002,TV-Y7,1 Seasons,Comedy,A gripping story about family.
+s163,Movie,Crimson Journey III,A. Sharma,Canada,"May 2, 2017",2014,TV-Y,154 min,"Drama, Reality-TV",A intense story about ambition.
+s164,Movie,Silent Storm,T. Johnson,France,"November 22, 2002",1998,TV-PG,173 min,Comedy,A gripping story about ambition.
+s165,Movie,Golden Empire,R. Kim,France,"January 12, 2024",2023,TV-PG,128 min,"Documentary, Reality-TV, Thriller",A gripping story about friendship.
+s166,TV Show,Crimson Signal : Rebirth,,Spain,"November 1, 2013",2013,PG-13,2 Seasons,"Crime, Romance",A intense story about family.
+s167,TV Show,Silent Journey,,Australia,"January 3, 2015",2013,TV-MA,9 Season,Romance,A gripping story about revenge.
+s168,Movie,Forgotten Chronicles,J. Miller,France,"March 19, 2007",2003,TV-PG,156 min,"Romance, Horror, Action",A gripping story about ambition.
+s169,TV Show,Dark Horizon III,,Japan,"September 13, 2021",2017,TV-14,1 Seasons,"Sci-Fi, Documentary",A fast-paced story about ambition.
+s170,TV Show,Endless Kingdom,,India,"May 26, 2024",2022,R,2 Seasons,"Action, Horror",A heartfelt story about friendship.
+s171,Movie,Dark Shadow : Origins,P. Silva,Japan,"January 5, 2024",2022,PG,93 min,"Sci-Fi, Kids",A intense story about ambition.
+s172,Movie,Silent Shadow,J. Miller,Australia,"July 1, 2019",2017,TV-MA,122 min,"Comedy, Kids",A heartfelt story about ambition.
+s173,Movie,Crimson Dream,L. Dubois,France,"March 3, 2009",2006,PG-13,125 min,"Horror, Thriller",A quirky story about family.
+s174,Movie,Golden Chronicles,N. Khan,Australia,"January 5, 2007",2004,TV-MA,70 min,"Romance, Anime",A quirky story about survival.
+s175,Movie,Endless Garden,K. Tanaka,France,"November 7, 2012",2008,TV-Y,110 min,Horror,A fast-paced story about survival.
+s176,TV Show,Crimson River,,Japan,"July 12, 2012",2010,PG,4 Seasons,Crime,A intense story about family.
+s177,TV Show,Lost Chronicles,,India,"November 16, 2024",2024,PG-13,5 Seasons,"Crime, Action",A quirky story about love.
+s178,Movie,Final River,T. Johnson,Spain,"September 2, 2023",2020,TV-14,159 min,"Anime, Crime, Comedy",A gripping story about revenge.
+s179,Movie,Dark Kingdom,A. Sharma,Australia,"May 26, 2021",2018,TV-PG,83 min,Comedy,A fast-paced story about revenge.
+s180,Movie,Secret Storm,N. Khan,Canada,"July 15, 2014",2012,TV-Y7,89 min,"Drama, Sci-Fi",A gripping story about survival.
+s181,Movie,Broken Shadow,K. Tanaka,Japan,"July 26, 2009",2007,R,136 min,"Romance, Sci-Fi",A gripping story about love.
+s182,TV Show,Lost Legacy II,,India,"November 4, 2000",1998,PG-13,4 Seasons,Kids,A heartfelt story about survival.
+s183,Movie,Lost Journey,,United Kingdom,"July 1, 2006",2003,R,127 min,"Horror, Reality-TV, Drama",A heartfelt story about revenge.
+s184,Movie,Distant Signal,N. Khan,India,"March 12, 2024",2023,TV-14,95 min,"Comedy, Thriller",A quirky story about ambition.
+s185,TV Show,Dark Empire,,India,"July 20, 2011",2009,PG-13,5 Seasons,"Action, Romance, Comedy",A heartfelt story about survival.
+s186,Movie,Dark Chronicles : Rebirth,S. Novak,Australia,"July 14, 2006",2002,PG-13,132 min,"Kids, Crime, Action",A intense story about revenge.
+s187,Movie,Last Kingdom,P. Silva,Australia,"January 16, 2001",1999,PG-13,94 min,"Kids, Reality-TV",A quirky story about love.
+s188,TV Show,Endless Chronicles,,India,"March 10, 2016",2016,G,5 Seasons,"Thriller, Action, Sci-Fi",A intense story about friendship.
+s189,TV Show,Lost Storm,,France,"May 18, 2024",2022,G,8 Seasons,Horror,A gripping story about friendship.
+s190,TV Show,Forgotten Journey,,Germany,"January 15, 2008",2006,PG,4 Seasons,"Anime, Romance, Reality-TV",A quirky story about revenge.
+s191,Movie,Forgotten Journey,A. Sharma,Australia,"May 20, 2013",2009,TV-Y7,91 min,"Reality-TV, Thriller",A fast-paced story about ambition.
+s192,Movie,Secret Garden,K. Tanaka,South Korea,"November 5, 2001",1999,PG-13,101 min,Reality-TV,A fast-paced story about revenge.
+s193,TV Show,Crimson Dream,,France,"July 15, 2021",2018,PG,2 Seasons,"Reality-TV, Thriller, Romance",A quirky story about love.
+s194,Movie,Silent Signal,J. Miller,Germany,"January 26, 2020",2018,TV-Y7,120 min,Horror,A heartfelt story about love.
+s195,Movie,Hidden Legacy,K. Tanaka,Australia,"November 25, 2015",2013,G,75 min,Crime,A quirky story about family.
+s196,Movie,Last River,S. Novak,Canada,"November 10, 2021",2020,PG-13,105 min,Crime,A fast-paced story about survival.
+s197,Movie,Crimson Garden,S. Novak,Brazil,"July 21, 2008",2007,PG,160 min,Drama,A heartfelt story about love.
+s198,Movie,Final Journey,P. Silva,United States,"January 28, 2000",1998,TV-PG,158 min,Sci-Fi,A gripping story about revenge.
+s199,Movie,Distant Signal : Origins,R. Kim,France,"March 21, 2005",2002,PG-13,78 min,"Anime, Drama, Reality-TV",A heartfelt story about love.
+s200,Movie,Golden Garden,S. Novak,Australia,"March 3, 2022",2019,PG,87 min,Anime,A quirky story about survival.
+s201,TV Show,Dark Signal : Origins,,Canada,"September 24, 2019",2015,TV-MA,1 Seasons,Kids,A intense story about ambition.
+s202,Movie,Endless City,M. Rossi,Germany,"March 16, 2010",2010,PG,137 min,Romance,A fast-paced story about revenge.
+s203,Movie,Final Dream,,United Kingdom,"January 1, 2024",2022,PG,71 min,"Documentary, Drama",A gripping story about love.
+s204,Movie,Crimson Chronicles,S. Novak,South Korea,"January 21, 2023",2020,TV-Y7,138 min,"Action, Thriller, Comedy",A fast-paced story about family.
+s205,Movie,Golden Signal,R. Kim,South Korea,"May 23, 2016",2016,TV-PG,163 min,Drama,A heartfelt story about family.
+s206,TV Show,Broken River,,Brazil,"January 1, 2022",2021,PG-13,1 Seasons,"Romance, Kids",A intense story about friendship.
+s207,Movie,Dark Kingdom,L. Dubois,India,"May 26, 2022",2022,TV-PG,104 min,"Comedy, Thriller, Anime",A gripping story about love.
+s208,Movie,Dark Horizon,N. Khan,United Kingdom,"May 25, 2010",2009,PG,143 min,"Reality-TV, Comedy, Documentary",A intense story about family.
+s209,Movie,Silent Journey : Origins,S. Novak,United Kingdom,"September 26, 2003",2003,TV-PG,98 min,"Documentary, Horror",A fast-paced story about survival.
+s210,TV Show,Final Legacy II,T. Johnson,United States,"July 28, 2010",2010,TV-MA,5 Seasons,Kids,A quirky story about family.
+s211,Movie,Hidden Empire,N. Khan,Canada,"September 16, 2014",2012,R,163 min,"Documentary, Action, Drama",A quirky story about family.
+s212,Movie,Dark Garden,A. Sharma,Japan,"November 24, 2001",1998,TV-MA,83 min,Kids,A heartfelt story about love.
+s213,Movie,Silent Kingdom,J. Miller,United States,"July 23, 2009",2005,TV-14,128 min,"Comedy, Anime, Reality-TV",A intense story about revenge.
+s214,Movie,Endless Shadow,A. Sharma,South Korea,"March 10, 2020",2019,TV-MA,110 min,"Reality-TV, Romance",A fast-paced story about love.
+s215,Movie,Broken Journey II,K. Tanaka,India,"July 11, 2006",2003,TV-PG,85 min,"Romance, Documentary, Sci-Fi",A fast-paced story about love.
+s216,Movie,Broken Shadow,,France,"January 7, 2024",2024,TV-14,88 min,Reality-TV,A heartfelt story about survival.
+s217,Movie,Silent Garden,K. Tanaka,United States,"September 24, 2013",2010,TV-Y7,101 min,Sci-Fi,A gripping story about revenge.
+s218,Movie,Silent Signal,K. Tanaka,Canada,"May 22, 2024",2024,PG,144 min,"Thriller, Comedy, Drama",A gripping story about revenge.
+s219,TV Show,Lost Signal : Origins,P. Silva,United States,"July 27, 2007",2003,TV-PG,8 Season,"Crime, Horror",A heartfelt story about survival.
+s220,Movie,Last City,K. Tanaka,United States,"September 8, 2021",2017,TV-MA,133 min,"Kids, Sci-Fi",A gripping story about family.
+s221,Movie,Last Dream,T. Johnson,Canada,"January 13, 2022",2018,TV-14,131 min,"Sci-Fi, Romance, Anime",A intense story about survival.
+s222,Movie,Last Horizon,M. Rossi,United States,"January 26, 2024",2023,TV-Y,137 min,"Anime, Documentary",A heartfelt story about family.
+s223,Movie,Golden City,A. Sharma,Canada,"May 27, 2019",2016,PG-13,92 min,Anime,A fast-paced story about friendship.
+s224,TV Show,Final Horizon,,Australia,"September 7, 2017",2016,TV-Y,9 Seasons,Sci-Fi,A gripping story about family.
+s225,Movie,Final Journey : Rebirth,A. Sharma,Japan,"March 11, 2018",2017,PG-13,172 min,"Drama, Reality-TV",A heartfelt story about ambition.
+s226,TV Show,Last Signal : Origins,,Japan,"September 4, 2023",2020,TV-14,5 Seasons,Action,A quirky story about friendship.
+s227,TV Show,Crimson Legacy,,Australia,"March 22, 2024",2023,PG-13,7 Seasons,"Reality-TV, Thriller, Action",A heartfelt story about friendship.
+s228,Movie,Distant Empire,N. Khan,United States,"May 26, 2007",2003,R,151 min,"Comedy, Sci-Fi, Action",A fast-paced story about friendship.
+s229,Movie,Dark Legacy,J. Miller,Brazil,"July 1, 2020",2018,TV-MA,96 min,Reality-TV,A gripping story about survival.
+s230,Movie,Broken Chronicles : Rebirth,P. Silva,South Korea,"July 13, 2006",2003,TV-14,139 min,"Comedy, Sci-Fi",A intense story about friendship.
+s231,TV Show,Golden Kingdom,,United States,"May 9, 2007",2007,PG,2 Seasons,Horror,A heartfelt story about friendship.
+s232,Movie,Broken Legacy,N. Khan,Germany,"July 21, 2020",2020,PG-13,147 min,"Action, Drama",A gripping story about survival.
+s233,Movie,Golden Dream,T. Johnson,France,"May 8, 2021",2019,PG,76 min,"Anime, Kids",A quirky story about revenge.
+s234,Movie,Silent Dream : Rebirth,M. Rossi,India,"March 21, 1999",1998,TV-MA,80 min,"Comedy, Thriller",A quirky story about love.
+s235,Movie,Crimson City : Rebirth,K. Tanaka,Japan,"March 15, 2012",2010,G,103 min,"Sci-Fi, Thriller",A heartfelt story about survival.
+s236,Movie,Last Signal,J. Miller,India,"September 14, 2021",2019,R,140 min,Horror,A intense story about love.
+s237,TV Show,Crimson River,L. Dubois,India,"September 19, 2010",2010,TV-Y7,3 Seasons,"Action, Reality-TV",A heartfelt story about revenge.
+s238,Movie,Endless Shadow,S. Novak,Canada,"September 9, 2024",2024,TV-14,163 min,Comedy,A quirky story about ambition.
+s239,Movie,Dark City,A. Sharma,Australia,"July 4, 2020",2016,TV-PG,89 min,Anime,A intense story about ambition.
+s240,TV Show,Broken Shadow,L. Dubois,Spain,"May 13, 2012",2009,TV-Y,8 Season,Thriller,A quirky story about revenge.
+s241,Movie,Crimson Chronicles,S. Novak,Japan,"January 24, 2021",2020,TV-Y,104 min,"Drama, Romance",A fast-paced story about survival.
+s242,Movie,Lost Chronicles,M. Rossi,United Kingdom,"May 9, 2010",2007,TV-PG,147 min,"Comedy, Documentary, Sci-Fi",A heartfelt story about love.
+s243,TV Show,Forgotten Storm,,Spain,"January 10, 2024",2023,TV-Y7,7 Seasons,"Anime, Drama, Action",A heartfelt story about revenge.
+s244,TV Show,Golden Horizon,,Canada,"July 17, 2008",2006,TV-PG,2 Season,Romance,A quirky story about ambition.
+s245,Movie,Lost Empire,R. Kim,United Kingdom,"November 27, 2024",2024,PG,106 min,Horror,A gripping story about revenge.
+s246,TV Show,Forgotten Journey,,Brazil,"November 14, 2006",2004,TV-Y7,1 Season,"Action, Crime",A heartfelt story about ambition.
+s247,TV Show,Golden City,,Brazil,"July 28, 2009",2006,TV-14,8 Seasons,Sci-Fi,A fast-paced story about friendship.
+s248,Movie,Final Dream,A. Sharma,Spain,"September 21, 2021",2019,TV-MA,108 min,"Comedy, Sci-Fi, Reality-TV",A fast-paced story about survival.
+s249,Movie,Hidden City,,France,"September 25, 2005",2004,R,77 min,"Horror, Crime, Romance",A heartfelt story about friendship.
+s250,Movie,Lost City,S. Novak,South Korea,"September 23, 2010",2010,R,113 min,"Reality-TV, Documentary, Kids",A quirky story about friendship.
+s251,Movie,Hidden Kingdom,T. Johnson,United Kingdom,"July 5, 2007",2007,TV-MA,162 min,"Action, Crime, Romance",A gripping story about revenge.
+s252,Movie,Distant City,R. Kim,Japan,"May 15, 2010",2006,PG,130 min,Crime,A intense story about ambition.
+s253,TV Show,Broken River,,Brazil,"May 14, 2014",2010,G,3 Seasons,Romance,A quirky story about ambition.
+s254,TV Show,Lost Kingdom,,India,"November 6, 2015",2013,TV-14,1 Season,"Thriller, Documentary",A heartfelt story about ambition.
+s255,TV Show,Lost Signal,N. Khan,South Korea,"July 14, 2021",2018,TV-Y,7 Season,Kids,A heartfelt story about friendship.
+s256,Movie,Silent Legacy,T. Johnson,Canada,"November 24, 1998",1998,R,98 min,"Romance, Thriller, Action",A gripping story about love.
+s257,Movie,Hidden Kingdom II,L. Dubois,France,"September 17, 2016",2012,TV-14,125 min,"Action, Romance, Sci-Fi",A fast-paced story about revenge.
+s258,Movie,Forgotten Dream III,K. Tanaka,Canada,"September 17, 2021",2021,PG-13,85 min,"Reality-TV, Crime",A gripping story about love.
+s259,TV Show,Hidden Signal,A. Sharma,Brazil,"January 23, 2001",2001,PG,7 Seasons,"Comedy, Kids",A fast-paced story about love.
+s260,TV Show,Golden Chronicles,S. Novak,Brazil,"May 20, 2005",2001,PG-13,7 Seasons,"Reality-TV, Anime, Comedy",A fast-paced story about family.
+s261,TV Show,Lost Journey,,Spain,"November 14, 2006",2004,TV-MA,3 Season,"Sci-Fi, Documentary, Reality-TV",A fast-paced story about revenge.
+s262,Movie,Crimson Shadow,N. Khan,Brazil,"January 25, 2014",2013,TV-Y7,79 min,"Reality-TV, Comedy, Thriller",A heartfelt story about love.
+s263,TV Show,Hidden City,K. Tanaka,United States,"November 11, 2009",2007,TV-PG,2 Seasons,Drama,A heartfelt story about friendship.
+s264,Movie,Dark Legacy,N. Khan,France,"May 27, 2021",2021,TV-14,93 min,Horror,A quirky story about love.
+s265,Movie,Endless Chronicles,S. Novak,Brazil,"January 5, 2024",2023,G,90 min,Horror,A intense story about love.
+s266,TV Show,Crimson River,,Japan,"November 27, 2017",2017,PG-13,8 Seasons,Horror,A quirky story about family.
+s267,Movie,Crimson Legacy III,,Japan,"November 23, 2018",2014,PG,125 min,"Reality-TV, Documentary, Sci-Fi",A fast-paced story about friendship.
+s268,Movie,Endless Kingdom,T. Johnson,Australia,"November 6, 1999",1999,TV-Y7,130 min,"Action, Comedy",A quirky story about survival.
+s269,Movie,Hidden Horizon,T. Johnson,Brazil,"March 3, 2013",2010,TV-Y,126 min,"Sci-Fi, Comedy, Reality-TV",A quirky story about survival.
+s270,Movie,Lost Chronicles,J. Miller,South Korea,"September 18, 2011",2011,G,175 min,Anime,A intense story about friendship.
+s271,Movie,Secret Storm,,Germany,"January 27, 2010",2008,R,128 min,"Kids, Anime",A intense story about love.
+s272,TV Show,Dark Chronicles,,Canada,"May 27, 2000",1998,TV-MA,9 Seasons,"Reality-TV, Comedy",A gripping story about revenge.
+s273,Movie,Distant Chronicles,J. Miller,France,"March 4, 2018",2017,TV-PG,97 min,"Documentary, Romance",A gripping story about love.
+s274,Movie,Crimson Garden,P. Silva,Germany,"September 5, 2023",2019,TV-Y,70 min,"Reality-TV, Drama, Kids",A quirky story about ambition.
+s275,Movie,Secret Signal,K. Tanaka,Australia,"January 13, 2004",2003,TV-14,134 min,"Horror, Anime",A heartfelt story about survival.
+s276,Movie,Dark City,K. Tanaka,United Kingdom,"November 24, 2015",2011,TV-Y7,108 min,"Kids, Romance, Reality-TV",A heartfelt story about revenge.
+s277,Movie,Distant City,,United Kingdom,"September 18, 2021",2020,TV-14,160 min,Romance,A intense story about love.
+s278,Movie,Crimson Chronicles,T. Johnson,France,"September 4, 2011",2011,G,118 min,Drama,A gripping story about revenge.
+s279,Movie,Forgotten Kingdom,,France,"November 26, 2002",2002,TV-MA,96 min,"Drama, Romance, Sci-Fi",A gripping story about ambition.
+s280,TV Show,Distant Storm,,Spain,"September 26, 2011",2010,TV-MA,1 Seasons,"Horror, Crime",A fast-paced story about ambition.
+s281,Movie,Distant City,P. Silva,Canada,"September 18, 2020",2018,R,169 min,"Documentary, Thriller, Sci-Fi",A heartfelt story about friendship.
+s282,Movie,Last Chronicles,S. Novak,United States,"September 9, 2013",2011,PG-13,90 min,"Thriller, Drama, Romance",A quirky story about friendship.
+s283,TV Show,Silent Kingdom,,Brazil,"July 26, 2019",2017,TV-Y7,6 Seasons,"Romance, Kids, Documentary",A heartfelt story about ambition.
+s284,Movie,Secret Kingdom,T. Johnson,South Korea,"March 7, 2002",2000,TV-14,112 min,"Thriller, Documentary",A intense story about ambition.
+s285,Movie,Secret Signal,A. Sharma,India,"July 8, 2021",2019,R,75 min,"Romance, Horror, Comedy",A quirky story about survival.
+s286,Movie,Hidden Horizon,R. Kim,Spain,"July 16, 2024",2023,G,107 min,"Documentary, Romance, Kids",A gripping story about family.
+s287,Movie,Forgotten Storm,,India,"November 14, 2005",2004,PG,96 min,"Reality-TV, Horror, Comedy",A heartfelt story about family.
+s288,Movie,Dark Horizon II,K. Tanaka,France,"September 27, 2015",2015,R,103 min,"Horror, Sci-Fi",A quirky story about love.
+s289,Movie,Endless Garden II,,Australia,"January 23, 2004",2000,PG,115 min,"Comedy, Thriller, Crime",A intense story about family.
+s290,Movie,Lost Dream,,United States,"September 8, 2014",2013,PG-13,165 min,"Kids, Thriller",A heartfelt story about survival.
+s291,Movie,Forgotten Chronicles,A. Sharma,Spain,"January 2, 2016",2015,G,143 min,"Horror, Kids, Crime",A gripping story about survival.
+s292,Movie,Distant Chronicles,S. Novak,Brazil,"March 6, 2015",2014,R,148 min,"Documentary, Comedy",A heartfelt story about friendship.
+s293,TV Show,Silent Signal,,Germany,"January 10, 2022",2018,PG,5 Seasons,Reality-TV,A intense story about love.
+s294,TV Show,Dark Kingdom,L. Dubois,Australia,"May 16, 2001",2000,TV-Y,6 Seasons,"Anime, Action, Reality-TV",A intense story about survival.
+s295,TV Show,Endless Kingdom III,,Brazil,"May 5, 2013",2011,TV-14,8 Seasons,"Romance, Thriller",A quirky story about ambition.
+s296,Movie,Crimson Empire : Origins,K. Tanaka,Spain,"November 21, 2006",2004,PG,163 min,Drama,A intense story about friendship.
+s297,Movie,Final Empire,N. Khan,Canada,"May 18, 2003",1999,TV-Y7,130 min,"Action, Romance, Horror",A heartfelt story about ambition.
+s298,TV Show,Hidden Kingdom,,South Korea,"January 22, 2013",2009,R,3 Seasons,Sci-Fi,A heartfelt story about revenge.
+s299,Movie,Final Garden,K. Tanaka,Germany,"March 25, 2009",2009,TV-Y,99 min,Thriller,A fast-paced story about revenge.
+s300,Movie,Golden Storm,R. Kim,South Korea,"January 2, 2016",2013,TV-14,83 min,"Kids, Crime, Thriller",A fast-paced story about ambition.
+s301,Movie,Last Dream,R. Kim,Australia,"September 9, 2018",2018,TV-PG,98 min,"Horror, Romance, Crime",A quirky story about love.
+s302,TV Show,Silent Storm,,Canada,"November 9, 2004",2000,R,3 Seasons,Romance,A intense story about friendship.
+s303,TV Show,Crimson Journey,,India,"July 7, 2016",2013,PG-13,7 Season,Drama,A heartfelt story about ambition.
+s304,Movie,Last Garden,N. Khan,United Kingdom,"May 6, 2000",1999,TV-Y7,121 min,"Anime, Crime, Drama",A fast-paced story about family.
+s305,Movie,Final River,K. Tanaka,Canada,"September 5, 2024",2024,PG-13,149 min,"Kids, Thriller, Action",A fast-paced story about love.
+s306,Movie,Broken Journey,K. Tanaka,India,"September 28, 1999",1998,TV-Y7,157 min,"Action, Anime",A gripping story about revenge.
+s307,Movie,Final Empire II,J. Miller,Germany,"September 18, 2020",2019,G,169 min,"Crime, Horror, Kids",A quirky story about survival.
+s308,TV Show,Distant Storm,,Germany,"May 19, 2024",2023,PG,7 Seasons,"Sci-Fi, Documentary",A gripping story about survival.
+s309,Movie,Secret Dream,A. Sharma,United States,"January 17, 2020",2016,G,118 min,"Documentary, Romance, Horror",A fast-paced story about family.
+s310,Movie,Crimson Empire,T. Johnson,South Korea,"September 9, 2018",2016,TV-PG,166 min,Horror,A intense story about ambition.
+s311,Movie,Dark Storm,L. Dubois,France,"November 13, 2018",2016,PG-13,154 min,Reality-TV,A heartfelt story about love.
+s312,TV Show,Last Shadow,,Japan,"September 23, 2024",2023,G,3 Seasons,"Drama, Comedy, Action",A quirky story about ambition.
+s313,Movie,Broken City,J. Miller,Australia,"July 20, 2002",1999,TV-Y7,106 min,"Anime, Drama, Action",A quirky story about love.
+s314,Movie,Crimson Signal,M. Rossi,United States,"September 17, 2024",2023,R,148 min,Crime,A gripping story about survival.
+s315,Movie,Silent Kingdom : Origins,S. Novak,Japan,"July 19, 2022",2019,R,136 min,Reality-TV,A gripping story about family.
+s316,Movie,Distant Storm,R. Kim,Japan,"March 20, 2024",2024,R,128 min,"Anime, Drama",A fast-paced story about revenge.
+s317,Movie,Broken Storm : Origins,R. Kim,India,"May 18, 2024",2023,TV-MA,158 min,"Horror, Anime",A quirky story about revenge.
+s318,TV Show,Forgotten River,,United States,"May 3, 2013",2013,TV-PG,4 Seasons,"Horror, Romance",A intense story about ambition.
+s319,Movie,Hidden Journey,S. Novak,Brazil,"January 18, 2023",2021,PG-13,130 min,"Romance, Documentary",A intense story about survival.
+s320,Movie,Distant Garden,M. Rossi,Germany,"March 24, 2022",2021,R,103 min,Documentary,A heartfelt story about revenge.
+s321,TV Show,Dark Kingdom,J. Miller,Brazil,"September 1, 2022",2019,TV-Y7,1 Seasons,"Anime, Romance",A quirky story about ambition.
+s322,TV Show,Lost Kingdom,,France,"September 5, 2011",2010,G,9 Seasons,"Kids, Drama",A intense story about survival.
+s323,Movie,Crimson Signal,J. Miller,Spain,"November 1, 2014",2012,G,156 min,Horror,A intense story about family.
+s324,Movie,Final City,L. Dubois,Canada,"September 11, 2009",2006,TV-14,93 min,"Horror, Documentary",A quirky story about friendship.
+s325,TV Show,Dark Dream,K. Tanaka,Australia,"January 24, 2020",2019,TV-MA,4 Seasons,"Horror, Documentary",A heartfelt story about friendship.
+s326,Movie,Forgotten Horizon,P. Silva,United Kingdom,"September 24, 2022",2018,TV-14,170 min,"Thriller, Reality-TV",A intense story about ambition.
+s327,Movie,Broken Chronicles,M. Rossi,France,"July 24, 2013",2013,TV-14,103 min,"Romance, Kids",A intense story about survival.
+s328,Movie,Endless Shadow,,Australia,"September 21, 2008",2004,TV-Y7,92 min,"Romance, Reality-TV",A intense story about love.
+s329,TV Show,Lost Shadow,,United Kingdom,"July 21, 2005",2003,TV-PG,2 Seasons,Romance,A heartfelt story about survival.
+s330,Movie,Hidden Chronicles,,South Korea,"May 24, 2009",2006,TV-Y7,127 min,"Action, Reality-TV",A gripping story about revenge.
+s331,TV Show,Crimson City,,India,"July 4, 2005",2004,PG,2 Seasons,"Drama, Reality-TV, Horror",A intense story about family.
+s332,Movie,Final Kingdom : Rebirth,L. Dubois,Canada,"July 21, 2007",2005,PG-13,86 min,"Action, Drama, Crime",A fast-paced story about survival.
+s333,TV Show,Lost Storm,,United Kingdom,"March 19, 2024",2020,TV-Y,7 Seasons,"Crime, Kids, Thriller",A fast-paced story about love.
+s334,Movie,Forgotten Shadow,R. Kim,South Korea,"May 1, 2007",2006,G,136 min,Romance,A fast-paced story about love.
+s335,Movie,Distant River,P. Silva,France,"May 20, 2001",1998,R,171 min,Kids,A fast-paced story about revenge.
+s336,Movie,Secret Dream,K. Tanaka,Brazil,"March 9, 2013",2010,PG,124 min,"Documentary, Kids, Anime",A fast-paced story about survival.
+s337,Movie,Secret Signal,M. Rossi,India,"May 4, 2004",2003,TV-Y,149 min,"Thriller, Anime",A quirky story about revenge.
+s338,Movie,Last Horizon,A. Sharma,United Kingdom,"May 5, 2003",2001,TV-Y,163 min,Documentary,A gripping story about revenge.
+s339,Movie,Golden Legacy,P. Silva,Japan,"May 3, 2012",2012,PG-13,77 min,"Horror, Comedy",A intense story about love.
+s340,Movie,Hidden Dream,J. Miller,Canada,"March 24, 2013",2010,G,95 min,"Reality-TV, Comedy",A intense story about friendship.
+s341,TV Show,Lost Dream,,Japan,"November 18, 2003",2003,TV-Y7,2 Seasons,"Crime, Thriller",A heartfelt story about survival.
+s342,TV Show,Crimson Journey,S. Novak,Japan,"May 19, 1999",1998,PG,7 Seasons,Drama,A intense story about friendship.
+s343,Movie,Final Kingdom,J. Miller,Canada,"January 22, 2006",2003,TV-14,167 min,"Drama, Reality-TV, Romance",A heartfelt story about friendship.
+s344,Movie,Broken Kingdom,R. Kim,Spain,"July 24, 2024",2023,R,72 min,"Horror, Romance, Action",A fast-paced story about family.
+s345,Movie,Lost Storm,P. Silva,Canada,"September 12, 2017",2016,TV-14,163 min,"Thriller, Anime",A intense story about revenge.
+s346,Movie,Last River,L. Dubois,Spain,"January 25, 2012",2009,TV-Y7,118 min,"Action, Drama, Anime",A fast-paced story about ambition.
+s347,Movie,Distant Shadow,T. Johnson,South Korea,"November 16, 2008",2004,TV-Y7,89 min,"Thriller, Romance, Horror",A fast-paced story about family.
+s348,Movie,Crimson Shadow III,K. Tanaka,United States,"July 7, 2004",2004,PG,74 min,"Crime, Horror, Sci-Fi",A intense story about ambition.
+s349,TV Show,Hidden Horizon,,India,"November 16, 1999",1998,PG,8 Season,"Kids, Horror",A fast-paced story about friendship.
+s350,Movie,Final City,J. Miller,France,"September 4, 2001",2000,PG,162 min,Kids,A quirky story about revenge.
+s351,Movie,Crimson Journey,K. Tanaka,Spain,"July 24, 2024",2021,PG,168 min,"Anime, Romance, Sci-Fi",A quirky story about family.
+s352,Movie,Last Storm,R. Kim,Brazil,"September 15, 2007",2003,TV-14,110 min,"Romance, Reality-TV, Horror",A quirky story about friendship.
+s353,Movie,Golden Empire,S. Novak,Spain,"May 15, 2023",2021,TV-Y,120 min,Reality-TV,A gripping story about survival.
+s354,Movie,Secret Kingdom,L. Dubois,United States,"March 28, 2008",2007,TV-14,72 min,"Thriller, Kids, Crime",A intense story about ambition.
+s355,TV Show,Last Shadow : Origins,L. Dubois,Japan,"March 9, 2017",2016,TV-MA,2 Seasons,"Documentary, Comedy, Romance",A quirky story about revenge.
+s356,Movie,Distant Chronicles,J. Miller,Australia,"January 24, 2020",2018,TV-PG,80 min,Romance,A fast-paced story about love.
+s357,Movie,Broken Signal,,Australia,"January 10, 2001",1998,TV-Y7,75 min,"Kids, Anime",A heartfelt story about survival.
+s358,Movie,Golden Kingdom : Rebirth,P. Silva,Australia,"January 8, 2020",2016,TV-PG,107 min,"Action, Reality-TV",A fast-paced story about family.
+s359,Movie,Distant Horizon,L. Dubois,India,"July 25, 2014",2010,PG-13,167 min,Sci-Fi,A intense story about revenge.
+s360,Movie,Crimson Empire,N. Khan,Spain,"January 9, 2006",2005,TV-PG,111 min,"Anime, Comedy, Crime",A quirky story about love.
+s361,Movie,Golden Legacy,,United States,"March 12, 2024",2022,TV-Y,149 min,Sci-Fi,A gripping story about revenge.
+s362,Movie,Dark Kingdom,J. Miller,India,"March 20, 2021",2021,PG-13,174 min,"Drama, Romance",A gripping story about survival.
+s363,Movie,Silent Legacy,T. Johnson,Canada,"September 25, 2008",2004,TV-MA,140 min,"Anime, Action",A gripping story about love.
+s364,Movie,Crimson Storm III,A. Sharma,France,"May 2, 2008",2004,TV-Y,153 min,Comedy,A quirky story about friendship.
+s365,Movie,Crimson Legacy,A. Sharma,France,"March 13, 2021",2018,TV-Y7,160 min,Romance,A quirky story about ambition.
+s366,Movie,Last Journey,P. Silva,Spain,"January 8, 2020",2020,TV-Y7,109 min,"Sci-Fi, Horror",A heartfelt story about family.
+s367,Movie,Dark Legacy,M. Rossi,Spain,"November 9, 2006",2006,TV-PG,174 min,Kids,A fast-paced story about revenge.
+s368,Movie,Endless Garden : Rebirth,T. Johnson,Brazil,"July 8, 2018",2017,PG-13,124 min,"Anime, Romance",A quirky story about ambition.
+s369,Movie,Crimson Kingdom,,Canada,"November 23, 2004",2002,TV-Y7,87 min,"Action, Crime",A intense story about revenge.
+s370,Movie,Secret Storm,J. Miller,United Kingdom,"November 1, 2009",2008,TV-14,122 min,"Thriller, Sci-Fi",A fast-paced story about revenge.
+s371,TV Show,Broken Kingdom,,Australia,"September 19, 2019",2017,R,4 Seasons,"Drama, Romance, Comedy",A quirky story about revenge.
+s372,Movie,Final River,R. Kim,United Kingdom,"July 5, 2013",2010,PG-13,94 min,Drama,A quirky story about family.
+s373,TV Show,Endless Journey,,Canada,"July 28, 2001",2000,TV-Y,6 Seasons,Horror,A quirky story about family.
+s374,Movie,Endless Chronicles,N. Khan,Australia,"September 21, 2021",2017,G,136 min,Sci-Fi,A quirky story about family.
+s375,TV Show,Golden Storm,,United States,"September 25, 2018",2015,G,4 Seasons,"Horror, Thriller",A fast-paced story about love.
+s376,Movie,Hidden Empire,T. Johnson,United Kingdom,"January 24, 2015",2012,TV-Y7,84 min,Anime,A intense story about revenge.
+s377,Movie,Dark River : Rebirth,N. Khan,Canada,"May 11, 2012",2012,PG-13,161 min,"Comedy, Reality-TV, Crime",A quirky story about friendship.
+s378,Movie,Secret Chronicles,T. Johnson,Australia,"September 13, 2006",2003,G,168 min,Romance,A intense story about friendship.
+s379,TV Show,Last Kingdom,,South Korea,"November 25, 2009",2007,TV-Y,5 Seasons,Action,A heartfelt story about family.
+s380,Movie,Hidden Horizon,P. Silva,Spain,"September 16, 2023",2023,R,97 min,"Crime, Sci-Fi, Reality-TV",A quirky story about love.
+s381,Movie,Final Horizon,T. Johnson,France,"March 2, 2021",2017,PG-13,88 min,Crime,A fast-paced story about family.
+s382,Movie,Silent Garden,N. Khan,France,"January 4, 2008",2008,TV-PG,92 min,Crime,A fast-paced story about ambition.
+s383,Movie,Distant Empire,T. Johnson,United Kingdom,"May 2, 2016",2012,PG,168 min,"Romance, Reality-TV",A quirky story about family.
+s384,TV Show,Secret Shadow,L. Dubois,Japan,"September 7, 2017",2014,R,1 Seasons,"Reality-TV, Crime, Kids",A gripping story about love.
+s385,TV Show,Final Signal,N. Khan,Japan,"September 20, 2010",2006,TV-14,3 Seasons,"Reality-TV, Crime, Sci-Fi",A quirky story about revenge.
+s386,TV Show,Golden Chronicles,J. Miller,United States,"November 28, 2012",2012,R,7 Seasons,Romance,A fast-paced story about ambition.
+s387,TV Show,Golden Horizon,,France,"May 10, 2023",2023,TV-Y7,9 Seasons,Comedy,A fast-paced story about survival.
+s388,Movie,Final Empire,K. Tanaka,Canada,"November 16, 2010",2008,TV-Y,172 min,Crime,A heartfelt story about love.
+s389,Movie,Lost Storm,P. Silva,South Korea,"September 10, 2021",2021,TV-14,141 min,"Drama, Documentary, Anime",A fast-paced story about survival.
+s390,Movie,Last City,R. Kim,South Korea,"March 19, 2022",2018,TV-PG,93 min,"Comedy, Thriller, Romance",A gripping story about survival.
+s391,Movie,Lost Journey,L. Dubois,Canada,"March 4, 2016",2014,TV-14,170 min,Documentary,A gripping story about love.
+s392,Movie,Forgotten River,K. Tanaka,Canada,"November 28, 2011",2008,TV-Y7,109 min,"Action, Comedy",A intense story about friendship.
+s393,TV Show,Golden Chronicles : Rebirth,,Spain,"May 2, 2001",2001,PG,6 Seasons,Comedy,A intense story about friendship.
+s394,TV Show,Silent Empire,,Canada,"March 10, 2009",2008,TV-MA,9 Seasons,"Crime, Comedy",A fast-paced story about revenge.
+s395,Movie,Broken Horizon,T. Johnson,Spain,"September 12, 2002",2001,TV-Y7,110 min,"Action, Thriller",A intense story about revenge.
+s396,Movie,Hidden Empire,T. Johnson,Germany,"January 16, 2000",1999,G,83 min,"Drama, Comedy",A quirky story about love.
+s397,Movie,Final Empire,P. Silva,Australia,"May 27, 2011",2009,R,161 min,"Kids, Comedy, Sci-Fi",A intense story about revenge.
+s398,Movie,Forgotten Chronicles,P. Silva,France,"July 8, 2022",2019,R,88 min,"Thriller, Romance, Horror",A heartfelt story about friendship.
+s399,TV Show,Dark Signal,,Germany,"July 4, 1998",1998,TV-14,8 Seasons,Thriller,A fast-paced story about ambition.
+s400,Movie,Secret Shadow,J. Miller,Japan,"May 18, 2015",2015,TV-Y,121 min,"Horror, Documentary, Anime",A heartfelt story about ambition.
